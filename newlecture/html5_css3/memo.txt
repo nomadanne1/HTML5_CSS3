@@ -6,7 +6,11 @@
  
  - 인터넷은 웹이다? 인터넷 == 웹 x
  - 인터넷은 인터 네트워크 기술 중에 하나이다.
-    : 클라이언트(요청) <<- 표준규약 (FTP, SMTP, TELNET, WWWW...) ->> 서버(제공)  
+    : 클라이언트(요청) << 표준규약 (FTP, SMTP, TELNET, WWWW...) >> 서버(제공)  
 
+3. WWWW(웹)의 탄생 배경 
+
+ - Berners-Lee (Hypertext project 제안)
+ - Mark Andereessen (Mosaic: later Netscape)
 
  
