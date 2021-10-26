@@ -13,4 +13,13 @@
  - Berners-Lee (Hypertext project 제안)
  - Mark Andereessen (Mosaic: later Netscape)
 
+4. 웹문서와 웹서버의 이해
+
+ - 웹서버 > 웹문서(홈디렉토리/wiki/: 특정디렉토리)
+ - Wep과 HTTP 
+   1. http://en.wikipedia.org/wiki/CERN 
+   2. REQUEST- GET요청 
+   3. >> 웹서버는 홈디렉토리에서 CERN 찾음
+   4. RESPONSE
+
  
