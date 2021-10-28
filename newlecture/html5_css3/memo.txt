@@ -30,3 +30,7 @@
  - 태그의 기호 (< >)가 마크업 기호로 적합한 이유
  - Markup 언어란 문서의 콘텐츠를 구분하기 위한 태그 집합
  
+7. HyperText
+
+ - HTML(Hyper Text Markup Language) cf.hyper: 저 건너~
+ - HTML은 문서의 구조를 만들기 위한 태그 + HyperText를 위한 태그를 포함>
