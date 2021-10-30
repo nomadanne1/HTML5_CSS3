@@ -33,4 +33,16 @@
 7. HyperText
 
  - HTML(Hyper Text Markup Language) cf.hyper: 저 건너~
- - HTML은 문서의 구조를 만들기 위한 태그 + HyperText를 위한 태그를 포함>
+ - HTML은 문서의 구조를 만들기 위한 태그 + HyperText를 위한 태그를 포함
+
+8. HTML파일의 기본구조: 규칙
+
+ <html>
+   <head>: 브라우저 화면에 보여줘야할 내용에 대한 설정
+      <title> 문저 제목 </title>
+   </head>
+   <body>: 브라우저 화면에 보여줄 내용
+      <a href="">HTML</a>이란
+      HyperText Markup Language
+   </body>
+ </html>
