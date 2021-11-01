@@ -51,3 +51,23 @@
 
   - 사용하지 않을 태그에 대한 호환성을 지정하기 위한 Document Type
   - 랜더링 방식의 호환성 문제 발생
+  - 다양한 브라우저의 경쟁 구도로 인한 독자적인 태그들
+   => 해결 방안: 웹 표준기구 W3C 탄생
+     *W3C의 역할
+      1. Draft
+      2. Working Draft
+      3. Candidate Recommendation
+      4. Recommendation
+
+  > 사용하지 않을 태그에 대한 호환성을 지정하기 위한 Document Type 
+    - HTML DTD: Document Type Definition의 종류
+    - strict.dtd, loose.dtd, frameset.dtd... 
+    - 기준 없으면 브라우저 자기 자신만의 방식=> Quirks!!
+  
+  > 문서 구조의 형식 <!DOCTYPE html> ( 표준방식으로 html 출력해주세용~ )
+
+10. 실습환경 준비하기
+ 
+ - Visual Studio Code
+ - Live Server
+
