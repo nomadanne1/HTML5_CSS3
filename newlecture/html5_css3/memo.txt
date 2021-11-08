@@ -122,4 +122,11 @@
  > XML (eXensible Markup Language)
    - 문서 타입(형식)을 정의하는 새로운 언어인 XML
 
+16. HTML의 버전과 HTML5의 탄생배경
+
+> XHTML과 HTML의 버전의 역사
+> HTML의 변천사
+> WHATWG (Web Hypertext Application Technology Working Group)
+> 웹 문서 구성의 변화
+  - 프로그래밍 플랫폼으로서의 변화가 요구되어 오던 웹 문서
 
