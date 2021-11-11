@@ -124,13 +124,25 @@
 
 16. HTML의 버전과 HTML5의 탄생배경
 
-> XHTML과 HTML의 버전의 역사
-> HTML의 변천사
-> WHATWG (Web Hypertext Application Technology Working Group)
-> 웹 문서 구성의 변화
-  - 프로그래밍 플랫폼으로서의 변화가 요구되어 오던 웹 문서
+  > XHTML과 HTML의 버전의 역사
+  > HTML의 변천사
+  > WHATWG (Web Hypertext Application Technology Working Group)
+  > 웹 문서 구성의 변화
+    - 프로그래밍 플랫폼으로서의 변화가 요구되어 오던 웹 문서
 
 17. 콘텐츠 작성하기
  
   > Web Developer- Disable All Styles
+
+18. 콘텐츠 블록잡기
+
+  [ HTML 문서의 기본 구조 ]
+
+  > 제목 태그- 여섯개의 레벨을 가지는 제목 태그 (h1, h2, ... h6)
+  > 목록 태그- 목록을 위한 태그 <ol>, <ul>, <dl>
+  > 입력 폼 태그- 입력 폼을 위한 태그 <form>
+
+  
+
+ 
 
