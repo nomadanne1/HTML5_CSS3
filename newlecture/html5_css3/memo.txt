@@ -147,6 +147,10 @@
 20. 문서의 아웃라인 잡기
 - 크롬 웹스토어  HTML5 Outliner 다운
 
+21. 아웃라인 영역 만들기
+
+- 콘텐츠의 일반전인 영역의 구성 ( header, title, main, aside, footer ... )
+
   
 
  
