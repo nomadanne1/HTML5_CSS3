@@ -183,6 +183,31 @@
       2. aside: header, main, footer도 아닌것들
       3. article: 내용이 있는것들..??
 
+25. 블록 태그와 인라인 태그
+
+  > 블록 태그들
+    - 지금까지 설명한 태그들은 모두 콘텐츠의 영역(블록)을 위한 태그들이다.
+      1. 섹션: section, nav, aside, article
+      2. 블록: div, header, main, footer
+      3. 제목: h, hgroup
+      4. 목록: ul, ol, dl
+      5. 문장: p
+      6. 표: table
+      7. 입력폼: form
+
+  > 블록 태그의 기본 스타일의 이용
+    - <br> 태그 없으면 오른쪽으로 쭉 나열
+    - <div> 태그로 감싸면 자기만의 height은 content의 높이, width는 100% 영역을 가짐
+  
+  > 종류에 따른 블록 스타일의 차이점
+    - 블록스타일: margin x
+    - 제목 스타일 블록: margin o
+    - 목록 스타일 블록: margin o (+들여써짐)
+  
+    * 공통점: 너비를 꽉채우고 한층을 혼자쓴다. 너비를 높이 조절 가능
+      but 너비를 줄였다고해도 밑에있는애가 위로 올라가는일은 없음
+
+
 
 
 
