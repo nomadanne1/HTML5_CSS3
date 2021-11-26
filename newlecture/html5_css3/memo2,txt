@@ -11,3 +11,10 @@
   
   > Style 태그를 이용한 속성의 집중화
     - 셀렉터: 태그명, 아이디, 클래스 ...
+
+29. 콤비네이션 연산자
+
+  1. A   B : Descendant selectors (A 자손들중에서 B를 찾아라)
+  2. A > B : Child selector (A 자식들중에서 B를 찾아라)
+  3. A + B : Adjacent sibling selector (A 이웃한 B를 찾아라)
+  4. A ~ B : General sibling selector (A 이웃한것들 중에서 B를 찾아라)
