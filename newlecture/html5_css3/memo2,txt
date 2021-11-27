@@ -15,6 +15,16 @@
 29. 콤비네이션 연산자
 
   1. A   B : Descendant selectors (A 자손들중에서 B를 찾아라)
-  2. A > B : Child selector (A 자식들중에서 B를 찾아라)
+  2. A > B : Child selector (A 자손들중에서 B를 찾아라)
   3. A + B : Adjacent sibling selector (A 이웃한 B를 찾아라)
   4. A ~ B : General sibling selector (A 이웃한것들 중에서 B를 찾아라)
+
+  > 스타일 적용 순서
+   - 콘텐츠 블록 스타일
+   - 레이아웃 블록 스타일
+
+30. Silbling 연산자
+
+  3. A + B : Adjacent sibling selector (A 이웃한 B를 찾아라)
+  4. A ~ B : General sibling selector (A 이웃한것들 중에서 B를 찾아라)
+
