@@ -28,3 +28,7 @@
   3. A + B : Adjacent sibling selector (A 이웃한 B를 찾아라)
   4. A ~ B : General sibling selector (A 이웃한것들 중에서 B를 찾아라)
 
+31. 속성 선택자
+
+  Basic selector: 엘리먼트명, .클래스명, #ID명, *, [속성=값] 
+  Combinators: A B, A>B, A+B, A~Basic 
