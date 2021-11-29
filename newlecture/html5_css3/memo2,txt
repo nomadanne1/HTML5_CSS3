@@ -15,7 +15,7 @@
 29. 콤비네이션 연산자
 
   1. A   B : Descendant selectors (A 자손들중에서 B를 찾아라)
-  2. A > B : Child selector (A 자손들중에서 B를 찾아라)
+  2. A > B : Child selector (A 자식들중에서 B를 찾아라)
   3. A + B : Adjacent sibling selector (A 이웃한 B를 찾아라)
   4. A ~ B : General sibling selector (A 이웃한것들 중에서 B를 찾아라)
 
@@ -31,4 +31,19 @@
 31. 속성 선택자
 
   Basic selector: 엘리먼트명, .클래스명, #ID명, *, [속성=값] 
-  Combinators: A B, A>B, A+B, A~Basic 
+  Combinators: A B, A>B, A+B, A~B
+
+32. Selector 우선순위
+
+  > 셀렉터를 이용한 엘리먼트 선택 
+  
+  1. 선택자 우선순위 
+   - id > class > 태그명
+   - (적용범위가 넓은 셀렉터일수록 우선순위가 낮다.)
+  
+  2. 동일한 연산 순위와 재정의
+   - 순서대로 덮어 씌움
+
+  3. 복합 연산자의 연산순위
+
+
