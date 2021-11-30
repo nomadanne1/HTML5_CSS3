@@ -46,4 +46,22 @@
 
   3. 복합 연산자의 연산순위
 
+   a) h1.h1 {color: green;}
+   b) section > .h1 {color: orange;}
+   c) section > h1 {color: blueviolet;}
+   d) h1 {color: red;}
+   >> 우선순위: b > c > a > d
+
+   a) h1[lang="ko"]{color: blue;}
+   b) .h1{color: red;}
+   c) h1{color: gray;}
+   >> 우선순위: a > b > c
+
+33. 스타일 링크하기
+
+ - 스타일 외부 파일에 두기 style.css
+  ★ 꼭 head 태그 안에!! ★
+  <link href="../css/style.css" type="text/css" rel="stylesheet">
+
+
 
