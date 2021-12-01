@@ -63,5 +63,14 @@
   ★ 꼭 head 태그 안에!! ★
   <link href="../css/style.css" type="text/css" rel="stylesheet">
 
+34. 스타일 리셋, 평준화, 현대화
+
+ - 평준화를 위한 방법 1 : Nomalize 
+ - 평준화를 위한 방법 2 : Reset CSS
+
+ > 구버전에 브라우저 지원하기
+
+ - 평준화를 위한 방법 3 : Modernize
+
 
 
