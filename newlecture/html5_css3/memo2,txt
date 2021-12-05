@@ -91,3 +91,15 @@
  
 
 37. reset 파일 생성
+
+  1. html파일에서 연결 (주의: css파일중 가장 먼저) 
+  <link href="../css/reset.css" type="text/css" rel="stylesheet">
+
+  2. 다른 css파일 첫줄에서 import (느려질 수 있음> 그럴때는 첫번째 방법을 사용!)
+  @import url("reset.css");
+
+38. 색상값
+
+  - Color값: Color KeyWords vs Hex vs Decimal
+
+  
