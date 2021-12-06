@@ -102,4 +102,11 @@
 
   - Color값: Color KeyWords vs Hex vs Decimal
 
-  
+39. 두 번째방 설정하기 (박스 정렬과 최소 높이)
+
+  > 격자형은 단방향을 중첩해서 만든다.
+
+  ★ 블록 스타일의 정렬 방법 ★
+   - margin-left: auto (오른쪽 정렬)
+   - margin-left: auto, margin-right: auto (가운데 정렬)
+
