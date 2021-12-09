@@ -3,18 +3,22 @@
 #s1 ul {
     background: yellow;
     height: 500px;
-    position: relative; /*부모를 기준으로하고 싶을떄*/
+    position: relative; /*absolute가 부모를 기준으로하고 싶을때*/
+    left: 50px;
+    top:30px;
 }
 
 #s1 li:nth-child(1){
     background: red;
+    position: relative; /*현재 자기위치 기준 오른쪽으로 50 아래로 30 (특징: 동생이 형자리로 올라오지 않음)*/
+    left: 50px;
+    top: 30px;
 }
 
 #s1 li:nth-child(2){
     background: green;
-    position: absolute;
-    left: 0px;
-    top: 0px;
+    --position: position;
+
 }
 
 #s1 li:nth-child(3){
