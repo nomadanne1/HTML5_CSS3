@@ -17,8 +17,9 @@
 
 #s1 li:nth-child(2){
     background: green;
-    --position: position;
-
+    position: fixed;
+    left: 100px;
+    right: 100px;
 }
 
 #s1 li:nth-child(3){

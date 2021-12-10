@@ -134,4 +134,10 @@
 
 42. 상대위치 (position: relative)
 
+43. 고정위치 (positon: fixed)
+
+  > Absolute와 fixed 차이점
+   - fixed는 스크롤바내려도 화면을 기준으로 고정된다.
+   - absolute는 offset을 가지고 있지만 fixed는 화면을 기준으로 붙일 뿐 종속되지 않는다.
+
 
