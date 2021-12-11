@@ -128,16 +128,27 @@
   ★ 콘텐츠 블록의 일부분의 위치를 정하기 ★
 
     1. Absolute: 내가원하는 절대위치에 가있어라 !
+     * position: relative; /*absolute가 부모를 기준으로하고 싶을때 부모 position*/
     2. Relative
     3. fixed
     4. sticky
 
 42. 상대위치 (position: relative)
 
+ -  position: relative; /*(특징: 동생이 형자리로 올라오지 않음)*/
+
 43. 고정위치 (positon: fixed)
 
   > Absolute와 fixed 차이점
    - fixed는 스크롤바내려도 화면을 기준으로 고정된다.
    - absolute는 offset을 가지고 있지만 fixed는 화면을 기준으로 붙일 뿐 종속되지 않는다.
+
+44. 붙임위치 (position: sticky)
+  
+  > stick와 fixed 차이점
+   - header에 fixed를 했더니 동생들이 가려짐 
+   - sticky는 내 위치를 고정하면서 fixed역할을 한다.
+   - *sticky에 top을 생략하면 안된다!!!
+
 
 
