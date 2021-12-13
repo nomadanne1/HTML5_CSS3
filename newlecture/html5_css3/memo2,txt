@@ -166,4 +166,4 @@
     - 메인축(main-axis) 정렬 옵션: justify-content: flex-start / flex-end / center / space-between / space-around
     - 수직축(cross-axis) 정렬 옵션: align-items: stretch / flex-start / flex-end / center / space-between / space-around
 
-
+46. Flex Direction / Basis
