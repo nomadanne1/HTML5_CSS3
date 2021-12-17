@@ -173,3 +173,5 @@
 48. flex-shrink
 
 49. flex-grow/flex-shrink/flex-basis의 단축 속성과 값
+
+50. flex-lines(drection, wrap, flow)
